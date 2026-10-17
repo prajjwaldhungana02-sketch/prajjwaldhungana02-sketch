@@ -1,4 +1,4 @@
-# Hi, I'm Prajjwal Dhungana 👋
+# Hi, I'm Prajjwal Dhungana
 
 Development economist from Nepal. MPA candidate at **Princeton SPIA** (Economics and Public Policy, SPIA Graduate Fellow), Graduate Associate at the Julis-Rabinowitz Center for Public Policy & Finance, and Environmental Policy Associate at the Center for Policy Research on Energy and the Environment.
 
@@ -26,17 +26,12 @@ I use **earth observation, open-source intelligence and causal machine learning*
 
 [REAR Econ](https://rearglobal.com.np/) is a research initiative I founded in 2025 under Rear Global (Lalitpur, Nepal). It helps aspiring applied economists, especially from low-income and first-generation backgrounds, grow into policy-engaged researchers through hands-on research, mentorship and policy engagement. About 330 aspiring researchers have taken part, and I have mentored 6 through a closed research program.
 
-- **AEMM: Applied Economics Is More Than Money**: a storytelling series showing that economics is about human behavior, not only money. [Posts](https://github.com/prajjwaldhungana02-sketch/rear_econ_posts/tree/main/aemm), e.g. why the timing of flood cash mattered after the Bhotekoshi flood.
+- **AEMM: Applied Economics Is More Than Money**: a storytelling series showing that economics is about human behavior, not only money.
 - **TLAE: Thinking Like An Aspiring Economist**: video interviews with aspiring economists about their paths.
 - **TWG: Thematic Working Group**: a reading and discussion group that produces evidence briefs (vocational training, menstrual products and school attendance, education reform).
 
 [LinkedIn](https://www.linkedin.com/company/rear-econ/) · [YouTube](https://www.youtube.com/@REAREcon) · [Instagram](https://www.instagram.com/rearecon2025/)
 
-## 🧰 Code and tools
-
-| Repo | What it is |
-|---|---|
-| [rear_econ_posts](https://github.com/prajjwaldhungana02-sketch/rear_econ_posts) | Post images and captions for REAR Econ |
 
 ## 🏅 Selected recognition
 
