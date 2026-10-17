@@ -8,40 +8,19 @@ I use **earth observation, open-source intelligence and causal machine learning*
 
 ---
 
-## What I work on
+**Background:** three years of applied research before Princeton. At ICIMOD I was a Senior Quantitative Economics Associate (climate-induced migration, adaptive capacity and precarity across four countries) and a SANDEE Economics Research Associate (economics of forest restoration in Bangladesh, Nepal, Pakistan and Sri Lanka). Before that, I was a researcher at Kathmandu University on climate change and income inequality. I consulted for the Micronutrient Forum (global systematic review on climate and nutrition) and 3ie (evidence gap maps on anaemia and on climate and biodiversity). I have undergraduate degreee in Economics from Kathmandu University.
 
-| Area | Questions | Methods |
-|---|---|---|
-| **Climate, energy & water security** | Do renewable energy and water investments create jobs and resilience in climate-exposed, fragile places? How does climate change drive migration and inequality? | Satellite data (Landsat, Sentinel-2, VIIRS), spatial difference-in-differences, double ML, SEM |
-| **State capacity & public sector performance** | Do governments and development banks learn from their own evaluations? | LLMs on project documents, text embeddings, event studies |
-| **Next:** crisis response, responsible AI | How do fragile states respond to shocks? How should AI be used in public institutions? | OSINT, AI evaluation |
-
-**Background:** three years of applied research before Princeton. At ICIMOD I was a Senior Quantitative Economics Associate (climate-induced migration, adaptive capacity and precarity across four countries) and a SANDEE pre-doctoral associate (economics of forest restoration in Bangladesh, Nepal, Pakistan and Sri Lanka). Before that, I was a researcher at Kathmandu University on climate change and income inequality. I consulted for the Micronutrient Forum (global systematic review on climate and nutrition) and 3ie (evidence gap maps on anaemia and on climate and biodiversity). BA Economics, Kathmandu University (3.99/4, Nepal Bidhya Bhusan Medal).
-
-**Tools:** Stata · R · Python · QGIS · Google Earth Engine · EPPI-Reviewer · LaTeX
+**Tools:** Stata · R 
 
 ---
 
 ## 🔬 Research projects
-
-| Project | Status | Repo |
-|---|---|---|
-| **Do multilaterals learn from their own evaluations?** LLM study linking World Bank completion-report lessons to the design of the next project | In progress (2026–27) | coming soon |
-| **Satellite evaluation of renewable energy and water projects in South Asia**: jobs and water outcomes from hydropower, solar and mini-grid investments | Planned (2027) | coming soon |
 
 ## 📄 Papers
 
 **Published**
 - Dhungana, P. (2023). [Nexus Between Climate Change and Inequality: Evidence from Nepal](https://doi.org/10.1007/s11293-023-09784-7). *Atlantic Economic Journal*. Finalist, Best Undergraduate Paper Award, International Atlantic Economic Society.
 - Dhungana, P. (2023). Municipal Solid Waste Management and Climate Change: Evidence from Nepal. *Issues in Political Economy*, 32(1).
-
-**Under review**
-- Silva, L. M., Vaivada, T., Fabrizio, C., Jiang, L., Holmes, K., Dhungana, P., et al. Multi-sectoral interventions with benefits for climate change and nutrition: a systematic review of the evidence.
-- Dhungana, P., & Sharma, K. Vocational Training and Women's Work in Nepal.
-
-**Working papers**
-- Dhungana, P. Impact of Climate Change on Human Migration: Evidence from Nepal.
-- Nepal, A. K., Dhungana, P., Newa, M., & Nepal, M. Beyond Remittances: Examining the Economic Agency of Returned Migrants.
 
 ## 📢 REAR Econ
 
